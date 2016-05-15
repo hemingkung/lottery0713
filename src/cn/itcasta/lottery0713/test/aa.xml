@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<message version="1.0">
+	<header>
+		<agenterid>1000002</agenterid>
+		<source>ivr</source>
+		<compress>DES</compress>
+		<messengerid>
+			<timestamp>
+				<digest>
+					<transactiontype>
+						<username>
+							<body>
+								<elements />
+							</body>
+				</digest>
+			</timestamp>
+		</messengerid>
+	</header>
+</message>
+
+<?xml version='1.0' encoding='utf-8' ?>
+<message version="1.0">
+	<header>
+		<agenterid>1000002</agenterid>
+		<source>ivr</source>
+		<compress>DES</compress>
+
+		<messengerid></messengerid>
+		<timestamp></timestamp>
+		<digest></digest>
+
+		<transactiontype></transactiontype>
+		<username></username>
+	</header>
+	<body>
+		<elements />
+	</body>
+</message>
+
+<?xml version='1.0' encoding='utf-8' ?>
+<message version="1.0">
+	<header>
+		<agenterid>1000002</agenterid>
+		<source>ivr</source>
+		<compress>DES</compress>
+		<messengerid>20121010085658520797</messengerid>
+		<timestamp>20121010085658</timestamp>
+		<digest>53fe8a9c5f961b1721b6a5db250be70f</digest>
+
+		<transactiontype></transactiontype>
+		<username></username>
+	</header>
+	<body>
+		<elements />
+	</body>
+</message>
+
+<?xml version='1.0' encoding='utf-8' ?>
+<message version="1.0">
+	<header>
+		<agenterid>1000002</agenterid>
+		<source>ivr</source>
+		<compress>DES</compress>
+		<messengerid>20121010091205852750</messengerid>
+		<timestamp>20121010091205</timestamp>
+		<digest>6769b772d5e255c9d8c04a81db6b99ab</digest>
+		<transactiontype>14001</transactiontype>
+		<username>13200000000</username>
+	</header>
+	<body>
+		<elements />
+	</body>
+</message>
+
+<?xml version='1.0' encoding='utf-8' ?>
+<message version="1.0">
+	<header>
+		<agenterid>1000002</agenterid>
+		<source>ivr</source>
+		<compress>DES</compress>
+		<messengerid>20121010092122911751</messengerid>
+		<timestamp>20121010092122</timestamp>
+		<digest>ef9591e627ede9bd395a72c0d8a10611</digest>
+		<transactiontype>14001</transactiontype>
+		<username>13200000000</username>
+	</header>
+	<body>
+		<elements>
+			<element>
+				<actpassword>111111</actpassword>
+			</element>
+		</elements>
+	</body>
+</message>
+
+<body>
+	<elements>
+		<element>
+			<actpassword>111111</actpassword>
+		</element>
+	</elements>
+</body>
+
+
+<?xml version='1.0' encoding='utf-8' ?><message version="1.0"><header><agenterid>1000002</agenterid><source>ivr</source><compress>DES</compress><messengerid>20121011013638156614</messengerid><timestamp>20121011013638</timestamp><digest>f871c66ae2d7b5c23e3f5a4de85cbcbc</digest><transactiontype>14001</transactiontype><username>13200000000</username></header><body>cgYNf1rUkTlcXIFjWR1NnvH8iusYVv9RnPZwf1jwKdPW42vpIdW6cYfkGDOJ0nP2/B6q4Ysb8+rRVH3CZYoHAbc7lcZjodtU33TDbmBuGBw=</body></message>
+
+
+
+
